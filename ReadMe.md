@@ -1,6 +1,5 @@
 # 💫 About Me:
-College student studying in Computer Science now attending DigitalCrafts' full-time software development program. 
-
+I am a College student studying in Computer Science who has recently completed Digital Crafts' full-time Web Development Program. I'm an excellent communicator and team player who puts the interests and objectives of the group before personal preferences. I'm willing to do what is necessary to exceed expectations regardless of the objective.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thomas-zimmerman-76843824b/) 
