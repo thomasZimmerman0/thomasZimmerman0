@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas Zimmerman</h1>
-<h3 align="center">I am a web developer at Webever Technologies, and alumni Digital Crafts. I'm an excellent communicator and team player who puts the interests and objectives of the group before personal preferences. I'm willing to do what is necessary to exceed expectations regardless of the objective.</h3>
+<h3 align="center">I am a full-stack Web Developer with multiple years of experience in software development technologies and frameworks. Currently working at Webever Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomaszimmerman0&label=Profile%20views&color=0e75b6&style=flat" alt="thomaszimmerman0" /> </p>
 
