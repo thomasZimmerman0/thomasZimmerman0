@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [practicing different web development languages and frameworks (most recently angular)](https://github.com/thomasZimmerman0/Angular-Practice)
 
-- 👨‍💻 All of my projects are available at [https://thomaszimmerman.netlify.app/](https://thomaszimmerman.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://tpzimmerman.com](https://tpzimmerman.com)
 
 - 📫 How to reach me **tomzimmerman7@protonmail.com**
 
