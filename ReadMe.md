@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomaszimmerman0&label=Profile%20views&color=0e75b6&style=flat" alt="thomaszimmerman0" /> </p>
 
-- 🔭 I’m currently working on [practicing different web development languages and frameworks (most recently angular)](https://github.com/thomasZimmerman0/Angular-Practice)
-
 - 👨‍💻 All of my projects are available at [https://tpzimmerman.com](https://tpzimmerman.com)
 
 - 📫 How to reach me **tomzimmerman7@protonmail.com**
